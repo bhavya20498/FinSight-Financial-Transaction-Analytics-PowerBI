@@ -164,7 +164,7 @@ Dashboard screenshots are also included to provide a preview of the report.
 
 ### Transactional Analysis
 
-![Transactional Analysis](transactional-analysis.png)
+![Transactional Analysis](Transactional analysis.PNG)
 
 ---
 
