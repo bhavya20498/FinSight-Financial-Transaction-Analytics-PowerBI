@@ -152,8 +152,6 @@ The repository contains the Power BI project file:
 
 [📥 Download Power BI PBIX File](Finsight%20Transactional%20Analysis%20project.pbix)
 
-Dashboard screenshots are also included to provide a preview of the report.
-
 ---
 
 ## 📸 Dashboard Preview
