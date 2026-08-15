@@ -150,7 +150,7 @@ These features allow users to explore the financial data dynamically instead of 
 
 The repository contains the Power BI project file:
 
-`finsight practice project.pbix`
+`Finsight Transactional Analysis project.pbix`
 
 Dashboard screenshots are also included to provide a preview of the report.
 
