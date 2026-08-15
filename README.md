@@ -160,7 +160,7 @@ Dashboard screenshots are also included to provide a preview of the report.
 
 ### Overview Analysis
 
-![Overview Analysis]
+![Overview Analysis]()
 
 ### Transactional Analysis
 
