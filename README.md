@@ -150,7 +150,7 @@ These features allow users to explore the financial data dynamically instead of 
 
 The repository contains the Power BI project file:
 
-`Finsight Transactional Analysis project.pbix`
+[📥 Download Power BI PBIX File](Finsight%20Transactional%20Analysis%20project.pbix)
 
 Dashboard screenshots are also included to provide a preview of the report.
 
@@ -160,7 +160,7 @@ Dashboard screenshots are also included to provide a preview of the report.
 
 ### Overview Analysis
 
-[View Overview Analysis](Overview%20analysis.PNG)
+- [View Overview Analysis](Overview%20analysis.PNG)
 
 ### Transactional Analysis
 
