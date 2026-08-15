@@ -160,11 +160,11 @@ Dashboard screenshots are also included to provide a preview of the report.
 
 ### Overview Analysis
 
-[View Overview Analysis](overview%20analysis.png)
+[View Overview Analysis](Overview%20analysis.PNG)
 
 ### Transactional Analysis
 
-- [View Transactional Analysis](transactional%20analysis.png)
+- [View Transactional Analysis](Transactional%20analysis.PNG)
 
 ---
 
