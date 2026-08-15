@@ -160,7 +160,7 @@ Dashboard screenshots are also included to provide a preview of the report.
 
 ### Overview Analysis
 
-![Overview Analysis](https://github.com/bhavya20498/FinSight-Financial-Transaction-Analytics-PowerBI/blob/c44e8afd075a72903fa364755aec5182dbcfd4c3/Overview%20analysis.PNG)
+![Overview Analysis]
 
 ### Transactional Analysis
 
